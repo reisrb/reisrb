@@ -99,6 +99,7 @@
 
 ## 🔭 Projects
 
+<!-- PROJECTS:START -->
 | Repo | Stack | About |
 |------|-------|-------|
 | [download-upload-strategy-gcp](https://github.com/reisrb/download-upload-strategy-gcp) | Java · GCP | File transfer strategies on Google Cloud |
@@ -107,6 +108,7 @@
 | [GPSEncode](https://github.com/reisrb/GPSEncode) | C++ · Arduino | Real-time GPS location on Arduino |
 | [mercado-livro](https://github.com/reisrb/mercado-livro) | Kotlin · Spring | REST API with Kotlin + Spring Boot |
 | [project-catrina](https://github.com/reisrb/project-catrina) | Java · Spring Boot | Abstract class + Spring Boot study |
+<!-- PROJECTS:END -->
 
 ---
 

@@ -59,6 +59,12 @@
 
 </div>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=reisrb&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
 ---
 
 ## 🔭 Projects

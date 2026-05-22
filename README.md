@@ -15,6 +15,15 @@
 
 ---
 
+## 👨‍💻 Sobre
+
+- 🎓 Análise e Desenvolvimento de Sistemas (SPTech)
+- 🎓 Pós Graduação — Liderança e Gestão de Tecnologia (SPTech)
+- 💼 Software Engineer na [AcordoCerto](https://www.acordocerto.com.br)
+- 🌱 Estudando e aprendendo
+
+---
+
 ## 🛠️ Tech Skills
 
 **Languages & Frameworks**

@@ -15,39 +15,32 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Skills
 
-**Languages**
+**Languages & Frameworks**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=java,go,python,kotlin,js,cpp,spring,kafka&perline=8)](https://skillicons.dev)
 
-**Backend & Frameworks**
+**Cloud, Data & Infra**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-
-**Cloud & Infra**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Data**
+[![Skills](https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,mysql,mongodb,arduino&perline=8)](https://skillicons.dev)
 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=delta&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logoColor=white)
 
-**Hardware / IoT**
+---
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+## 🤝 Soft Skills
+
+![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-0077B5?style=flat-square)
+![Comunicação Técnica](https://img.shields.io/badge/Comunicação%20Técnica-0077B5?style=flat-square)
+![Resolução de Problemas](https://img.shields.io/badge/Resolução%20de%20Problemas-0077B5?style=flat-square)
+![Pensamento Analítico](https://img.shields.io/badge/Pensamento%20Analítico-0077B5?style=flat-square)
+![Aprendizado Contínuo](https://img.shields.io/badge/Aprendizado%20Contínuo-0077B5?style=flat-square)
+![Metodologias Ágeis](https://img.shields.io/badge/Metodologias%20Ágeis-0077B5?style=flat-square)
+![Autonomia](https://img.shields.io/badge/Autonomia-0077B5?style=flat-square)
+![Mentoria](https://img.shields.io/badge/Mentoria-0077B5?style=flat-square)
 
 ---
 

@@ -55,14 +55,14 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=reisrb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisrb&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reisrb&theme=github_dark" height="165em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reisrb&theme=github_dark" height="165em"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=reisrb&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reisrb&theme=github_dark"/>
 
 </div>
 

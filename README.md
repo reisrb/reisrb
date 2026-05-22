@@ -78,8 +78,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reisrb&theme=github_dark" height="165em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reisrb&theme=github_dark" height="165em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reisrb&theme=github_dark" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reisrb&theme=github_dark" height="165"/>
 
 </div>
 

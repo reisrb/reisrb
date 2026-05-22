@@ -19,7 +19,7 @@
 
 - 🎓 Análise e Desenvolvimento de Sistemas (SPTech)
 - 🎓 Pós Graduação — Liderança e Gestão de Tecnologia (SPTech)
-- 💼 Software Engineer na [AcordoCerto](https://www.acordocerto.com.br)
+- 💼 Software Engineer na [AcordoCerto](https://www.acordocerto.com.br) / [ConsumidorPositivo](https://www.consumidorpositivo.com.br)
 
 ---
 

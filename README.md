@@ -100,14 +100,14 @@
 ## 🔭 Projects
 
 <!-- PROJECTS:START -->
-| Repo | Stack | About |
-|------|-------|-------|
-| [download-upload-strategy-gcp](https://github.com/reisrb/download-upload-strategy-gcp) | Java · GCP | File transfer strategies on Google Cloud |
-| [websocket-java](https://github.com/reisrb/websocket-java) | Java · WebSocket | Real-time backend with WebSocket |
-| [FaceRecognition](https://github.com/reisrb/FaceRecognition) | Python · OpenCV | Face recognition pipeline |
-| [GPSEncode](https://github.com/reisrb/GPSEncode) | C++ · Arduino | Real-time GPS location on Arduino |
-| [mercado-livro](https://github.com/reisrb/mercado-livro) | Kotlin · Spring | REST API with Kotlin + Spring Boot |
-| [project-catrina](https://github.com/reisrb/project-catrina) | Java · Spring Boot | Abstract class + Spring Boot study |
+| Repo | Language | Stars |
+|------|----------|-------|
+| [download-upload-strategy-gcp](https://github.com/reisrb/download-upload-strategy-gcp) | Java | ⭐ 2 |
+| [teste-readme](https://github.com/reisrb/teste-readme) | — | ⭐ 2 |
+| [websocket-java](https://github.com/reisrb/websocket-java) | Java | ⭐ 1 |
+| [generated-pdf-java](https://github.com/reisrb/generated-pdf-java) | HTML | ⭐ 1 |
+| [FaceRecognition](https://github.com/reisrb/FaceRecognition) | Python | ⭐ 1 |
+| [carloan](https://github.com/reisrb/carloan) | Swift | — |
 <!-- PROJECTS:END -->
 
 ---

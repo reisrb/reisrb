@@ -107,7 +107,8 @@
 | [websocket-java](https://github.com/reisrb/websocket-java) | Java | ⭐ 1 |
 | [generated-pdf-java](https://github.com/reisrb/generated-pdf-java) | HTML | ⭐ 1 |
 | [FaceRecognition](https://github.com/reisrb/FaceRecognition) | Python | ⭐ 1 |
-| [carloan](https://github.com/reisrb/carloan) | Swift | — |
+| [applock](https://github.com/reisrb/applock) | Swift | — |
+| *iOS app that locks apps behind configurable group passwords using FamilyControls* | | |
 <!-- PROJECTS:END -->
 
 ---

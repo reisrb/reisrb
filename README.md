@@ -107,7 +107,8 @@
 | [websocket-java](https://github.com/reisrb/websocket-java) | Java | ⭐ 1 |
 | [generated-pdf-java](https://github.com/reisrb/generated-pdf-java) | HTML | ⭐ 1 |
 | [FaceRecognition](https://github.com/reisrb/FaceRecognition) | Python | ⭐ 1 |
-| [d-ong](https://github.com/reisrb/d-ong) | JavaScript | — |
+| [lan-pad](https://github.com/reisrb/lan-pad) | TypeScript | — |
+| *Shared text pad over your LAN — self-hosted single-file Dontpad clone, zero deps* | | |
 <!-- PROJECTS:END -->
 
 ---

@@ -107,8 +107,8 @@
 | [websocket-java](https://github.com/reisrb/websocket-java) | Java | ⭐ 1 |
 | [generated-pdf-java](https://github.com/reisrb/generated-pdf-java) | HTML | ⭐ 1 |
 | [FaceRecognition](https://github.com/reisrb/FaceRecognition) | Python | ⭐ 1 |
-| [lan-pad](https://github.com/reisrb/lan-pad) | TypeScript | — |
-| *Shared text pad over your LAN — self-hosted single-file Dontpad clone, zero deps* | | |
+| [compreis-react-native](https://github.com/reisrb/compreis-react-native) | TypeScript | — |
+| *Shopping list app — React Native port of Compreis iOS (Expo + SQLite + React Navigation)* | | |
 <!-- PROJECTS:END -->
 
 ---

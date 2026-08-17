@@ -107,8 +107,7 @@
 | [websocket-java](https://github.com/reisrb/websocket-java) | Java | ⭐ 1 |
 | [generated-pdf-java](https://github.com/reisrb/generated-pdf-java) | HTML | ⭐ 1 |
 | [FaceRecognition](https://github.com/reisrb/FaceRecognition) | Python | ⭐ 1 |
-| [compreis-react-native](https://github.com/reisrb/compreis-react-native) | TypeScript | — |
-| *Shopping list app — React Native port of Compreis iOS (Expo + SQLite + React Navigation)* | | |
+| [credit-engine-ui](https://github.com/reisrb/credit-engine-ui) | JavaScript | — |
 <!-- PROJECTS:END -->
 
 ---
